@@ -1,4 +1,14 @@
 homebrew-bd808
 ==============
 
-Personal homebrew hacks
+Homebrew hacks^Wformulas
+
+Install
+-------
+
+    brew tap bd808/bd808
+
+Usage
+-----
+
+    brew install bd808/bd808/<something>
